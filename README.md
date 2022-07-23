@@ -1,2 +1,2 @@
-# WorkOut-DumbbellOnly-
+# WorkOut.DumbbellOnly
 Light Workout
