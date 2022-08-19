@@ -13,10 +13,10 @@ https://giphy.com/gifs/workout-workoutoftheday-workoutofthedayapp-1qrNKzsgcZtGMk
 	<td>1.</td><td><img src="https://media2.giphy.com/media/1qrNKzsgcZtGMkI4pn/giphy.gif?cid=790b7611e922167352bfaafd2f7185e42aa3d3f9e2b3d9f8&rid=giphy.gif&ct=g" width="300"height="200" height="100px"/></td><td>SHOULDER PRESS DUMBBLE</td>
 	</tr>
 	<tr>
-	<td>2.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td></td>
+	<td>2.</td><td><img src="https://media1.giphy.com/media/q7Kcj2cbNImXGJZsfM/giphy.gif?cid=790b7611ab2a2f500aba316b46af3396ac85274430272039&rid=giphy.gif&ct=s" width="300" height="200" height="100px"/></td><td>SINGLE ARM ROW DUMBBLE</td>
 	</tr>
 	<tr>
-	<td>3.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>3.</td><td><img src="https://media3.giphy.com/media/2Sn7T5gfboseh4WEc9/giphy.gif?cid=ecf05e47ihwqooe46savli4zoucnquzrgsc8prhl5s0vwvge&rid=giphy.gif&ct=g" width="300" height="200" height="100px"/></td><td>DUMBBLE PULLOVERS</td>
 	</tr> 
 	<tr>
 	<td>4.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
