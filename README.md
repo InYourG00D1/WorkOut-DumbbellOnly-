@@ -1,6 +1,5 @@
 # WorkOut.DumbbellOnly
 Light Workout
-https://giphy.com/gifs/workout-workoutoftheday-workoutofthedayapp-1qrNKzsgcZtGMkI4pn
 	
 <table width="100%" class="table">
 <tr>
@@ -25,67 +24,67 @@ https://giphy.com/gifs/workout-workoutoftheday-workoutofthedayapp-1qrNKzsgcZtGMk
 	<td>5.</td><td><img src="https://media4.giphy.com/media/RuDMfiBPHlt0lVOMiq/giphy.gif?cid=ecf05e47uby6eaoibpg0yxsro1bp0elals1tjy77nsjlqdoc&rid=giphy.gif&ct=g" width="300" height="200"/></td><td>BENT OVER DUMBBLE ROW</td>
 	</tr>
 	<tr>
-	<td>6.</td><td><img src="https://media3.giphy.com/media/HwFdMdIGm0hk7k13jn/giphy.gif?cid=ecf05e47li7h5gk3dewp201e2b79146gslc4yjitq60i2x47&rid=giphy.gif&ct=g" width="300" height="100"/></td><td>biceps</td>
+	<td>6.</td><td><img src="https://media3.giphy.com/media/HwFdMdIGm0hk7k13jn/giphy.gif?cid=ecf05e47li7h5gk3dewp201e2b79146gslc4yjitq60i2x47&rid=giphy.gif&ct=g" width="300" height="200"/></td><td>biceps</td>
 	</tr>
 	<tr>
-	<td>7.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>7.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr>
 	<tr>
-	<td>8.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>8.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr>
 	<tr>
-	<td>9.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>9.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr>
 	<tr>
-	<td>10.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>10.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr>
 	<tr>
-	<td>11.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>11.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr>
 	<tr>
-	<td>12.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>12.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr>
 	<tr>
-	<td>13.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>13.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr>
 	<tr>
-	<td>14.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>14.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr>
 	<tr>
-	<td>15.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>15.</td><td><img src="o" width="100px" height="100/></td><td>biceps</td>
 	</tr>
 	<tr>
-	<td>16.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>16.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr>
 	<tr>
-	<td>17.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>17.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr>
 	<tr>
-	<td>18.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>18.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr>
 	<tr>
-	<td>19.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>19.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr>
 	<tr>
-	<td>20.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>20.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr>
 	<tr>
-	<td>21.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>21.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr> 
 	<tr>
-	<td>22.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>22.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr> 
 	<tr>
-	<td>23.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>23.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr> 
 	<tr>
-	<td>24.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>24.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr> 
 	<tr>
-	<td>25.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>25.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr> 
 	<tr>
-	<td>25.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>25.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr> 
 	<tr>
 	<td>26.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
