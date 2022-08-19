@@ -10,10 +10,10 @@ https://giphy.com/gifs/workout-workoutoftheday-workoutofthedayapp-1qrNKzsgcZtGMk
 </tr>
 	
 <tr>
-	<td>1.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>1.</td><td><img src="https://media2.giphy.com/media/1qrNKzsgcZtGMkI4pn/giphy.gif?cid=790b7611e922167352bfaafd2f7185e42aa3d3f9e2b3d9f8&rid=giphy.gif&ct=g" width="300"height="200" height="100px"/></td><td>SHOULDER PRESS DUMBBLE</td>
 	</tr>
 	<tr>
-	<td>2.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>2.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td></td>
 	</tr>
 	<tr>
 	<td>3.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
