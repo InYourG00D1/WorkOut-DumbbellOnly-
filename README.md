@@ -1,10 +1,8 @@
 # WorkOut.DumbbellOnly
 Light Workout
 
-<! DOCTYPE html>
-<html>
 	
-	<table width="100%" class="table">
+<table width="100%" class="table">
 <tr>
 <th>No</th>
 <th>example </th>
@@ -152,4 +150,4 @@ Light Workout
 	</tr> 
 	<td>50.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
 	</tr> 
-</html>
+</table>
