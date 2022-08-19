@@ -19,10 +19,10 @@ https://giphy.com/gifs/workout-workoutoftheday-workoutofthedayapp-1qrNKzsgcZtGMk
 	<td>3.</td><td><img src="https://media3.giphy.com/media/2Sn7T5gfboseh4WEc9/giphy.gif?cid=ecf05e47ihwqooe46savli4zoucnquzrgsc8prhl5s0vwvge&rid=giphy.gif&ct=g" width="300" height="200" height="100px"/></td><td>DUMBBLE PULLOVERS</td>
 	</tr> 
 	<tr>
-	<td>4.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>4.</td><td><img src="https://media4.giphy.com/media/StVhHPCcDPoa4eiwC4/giphy.gif?cid=ecf05e47kwibdyvr2jtuamask9ojhb3d0coha0xkia611mfu&rid=giphy.gif&ct=g" width="300" height="200" height="100px"/></td><td>LUNGES WITH DUMBBLE</td>
 	</tr>
 	<tr>
-	<td>5.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>5.</td><td><img src="https://media4.giphy.com/media/RuDMfiBPHlt0lVOMiq/giphy.gif?cid=ecf05e47uby6eaoibpg0yxsro1bp0elals1tjy77nsjlqdoc&rid=giphy.gif&ct=g" width="300" height="200" height="100px"/></td><td>BENT OVER DUMBBLE ROW</td>
 	</tr>
 	<tr>
 	<td>6.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
