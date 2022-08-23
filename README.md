@@ -27,19 +27,19 @@ Light Workout
 	<td>6.</td><td><img src="https://media3.giphy.com/media/HwFdMdIGm0hk7k13jn/giphy.gif?cid=ecf05e47li7h5gk3dewp201e2b79146gslc4yjitq60i2x47&rid=giphy.gif&ct=g" width="300" height="200"/></td><td>biceps</td>
 	</tr>
 	<tr>
-	<td>7.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
+	<td>7.</td><td><img src="https://media1.giphy.com/media/6wXQav2lIyZwbu2BK5/giphy.gif?cid=790b76113b51f37febdf0aaa369f2097392c8950eb5fb62e&rid=giphy.gif&ct=g" width="300" height="200"/></td><td>FRONT HAMMER PRESS DUMBBLE</td>
 	</tr>
 	<tr>
-	<td>8.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
+	<td>8.</td><td><img src="https://media1.giphy.com/media/RhIURK2QEdW7gG4Uzc/giphy.gif?cid=790b7611e8c3e5f66138a9b5d305aebd7a46de7130ffed40&rid=giphy.gif&ct=g" width="300" height="200"/></td><td>CONCENTRATION CURLS</td>
 	</tr>
 	<tr>
-	<td>9.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
+	<td>9.</td><td><img src=""https://media3.giphy.com/media/jLFMDwtmRBrTQVVIDH/giphy.gif?cid=790b7611f1b77445fab9feac7708ad29d7fc041da0d50f29&rid=giphy.gif&ct=g" width="300" height="200"/></td><td>INCLINED BENCH PRESS DUMBBLE</td>
 	</tr>
 	<tr>
-	<td>10.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
+	<td>10.</td><td><img src="https://media4.giphy.com/media/D1MI5cm31xkGS5aHMB/giphy.gif?cid=790b76110386847493e4955f8f982cb2ce7df0153cb8fbcc&rid=giphy.gif&ct=g" width="300" height="200"/></td><td>HOLLOW PRESS DUMBBLEceps</td>
 	</tr>
 	<tr>
-	<td>11.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
+	<td>11.</td><td><img src="https://media0.giphy.com/media/7wjAml7kljXvs6BVwq/giphy.gif?cid=790b7611d823b31f4c943ccd080521610ddea34b61108969&rid=giphy.gif&ct=g" width="300" height="200"/></td><td>HAMMER CURLS</td>
 	</tr>
 	<tr>
 	<td>12.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
@@ -87,48 +87,47 @@ Light Workout
 	<td>25.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr> 
 	<tr>
-	<td>26.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>26.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr> 
 	<tr>
-	<td>27.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>27.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr> 
 	<tr>
-	<td>28.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>28.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr> 
 	<tr>
-	<td>29.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>29.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr> 
 	<tr>
-	<td>30.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>30.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr> 
 	<tr>
-	<td>31.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>31.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr> 
 	<tr>
-	<td>32.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>32.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr> 
 	<tr>
-	<td>33.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>33.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr> 
 	<tr>
-	<td>35.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>35.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr> 
 	<tr>
-	<td>36.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>36.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr> 
 	<tr>
-	<td>37.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>37.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr> 
 	<tr>
-	<td>38.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>38.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr> 
 	<tr>
-	<td>39.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
-	</tr> 
+	<td>39.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	<tr>
-	<td>40.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>40.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr> 
-	<td>41.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
+	<td>41.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
 	</tr> 
 	<td>42.</td><td><img src="o" width="100px" height="100" height="100px"/></td><td>biceps</td>
 	</tr> 
