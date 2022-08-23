@@ -42,31 +42,31 @@ Light Workout
 	<td>11.</td><td><img src="https://media0.giphy.com/media/7wjAml7kljXvs6BVwq/giphy.gif?cid=790b7611d823b31f4c943ccd080521610ddea34b61108969&rid=giphy.gif&ct=g" width="300" height="200"/></td><td>HAMMER CURLS</td>
 	</tr>
 	<tr>
-	<td>12.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
+	<td>12.</td><td><img src="https://media2.giphy.com/media/pZ9eqPAnvIdjlB5Hwh/giphy.gif?cid=790b76112315d5e827e2524e2194c3036fc78792e592cd28&rid=giphy.gif&ct=g" width="300" height="200"/></td><td>DEADLIFT WITH DUMBBLE</td>
 	</tr>
 	<tr>
-	<td>13.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
+	<td>13.</td><td><img src="https://media1.giphy.com/media/yijWeRyugxhP2olETI/giphy.gif?cid=790b7611dc722c27847e33b7928b7e27d4640fcccd9186da&rid=giphy.gif&ct=g" width="300" height="200"/></td><td>CALF RAISES DUMBBLE</td>
 	</tr>
 	<tr>
-	<td>14.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
+	<td>14.</td><td><img src="https://media3.giphy.com/media/vjx9L8Upc2bK8UTy9Q/giphy.gif?cid=790b7611587e02740107b156ba761a61f1f5a5aa049ab820&rid=giphy.gif&ct=g" width="300" height="200"/></td><td>ONE ARM TRICEPS OVER HEAD EXTENSSION</td>
 	</tr>
 	<tr>
-	<td>15.</td><td><img src="o" width="100px" height="100/></td><td>biceps</td>
+	<td>15.</td><td><img src="https://media2.giphy.com/media/rmlERmsODCF0l13Sqe/giphy.gif?cid=790b761176416b30cbfdea790b16400bda8d1ad5f2f163a6&rid=giphy.gif&ct=g" width="300" height="200"/></td><td>DUMBBLE LATERAL RAISES</td>
 	</tr>
 	<tr>
-	<td>16.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
+	<td>16.</td><td><img src="https://media1.giphy.com/media/kHJ5mCNZFq6aiOdh6o/giphy.gif?cid=790b7611d4229f48e81568bf60f8f21d042c9b0bc04e2318&rid=giphy.gif&ct=g" width="300" height="200"/></td><td>SQUATS WITH DUMBBLE</td>
 	</tr>
 	<tr>
-	<td>17.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
+	<td>17.</td><td><img src="https://media2.giphy.com/media/fZapd6YADossxqS8FW/giphy.gif?cid=790b761180f5011a3592cab03d56d92c617ddeec9dab47a4&rid=giphy.gif&ct=g" width="300" height="200"/></td><td>RUSIAN TWIST</td>
 	</tr>
 	<tr>
-	<td>18.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
+	<td>18.</td><td><img src="https://media0.giphy.com/media/zBvSThvnE0Cj2ikfTC/giphy.gif?cid=790b76110a9a5a4ae52dd1b090772ac7df7be792103bb245&rid=giphy.gif&ct=g" width="300" height="200"/></td><td>BENT OVER REVERSE FLY DUMBBLE</td>
 	</tr>
 	<tr>
-	<td>19.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
-	</tr>
+	<td>19.</td><td><img src="https://media2.giphy.com/media/jlG03pW8tkV3nlC4hr/giphy.gif?cid=790b7611af0f26827336b8d1ac7bfc21cdb8a2e43a1f92bb&rid=giphy.gif&ct=g" width="300" height="200"/></td><td>AX ROTATION DUMBBLE</td>
+        </tr>
 	<tr>
-	<td>20.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
+	<td>20.</td><td><img src="" width="100px" height="100"/></td><td>biceps</td>
 	</tr>
 	<tr>
 	<td>21.</td><td><img src="o" width="100px" height="100"/></td><td>biceps</td>
