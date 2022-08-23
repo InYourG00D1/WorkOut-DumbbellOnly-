@@ -33,7 +33,7 @@ Light Workout
 	<td>8.</td><td><img src="https://media1.giphy.com/media/RhIURK2QEdW7gG4Uzc/giphy.gif?cid=790b7611e8c3e5f66138a9b5d305aebd7a46de7130ffed40&rid=giphy.gif&ct=g" width="300" height="200"/></td><td>CONCENTRATION CURLS</td>
 	</tr>
 	<tr>
-	<td>9.</td><td><img src=""https://media3.giphy.com/media/jLFMDwtmRBrTQVVIDH/giphy.gif?cid=790b7611f1b77445fab9feac7708ad29d7fc041da0d50f29&rid=giphy.gif&ct=g" width="300" height="200"/></td><td>INCLINED BENCH PRESS DUMBBLE</td>
+	<td>9.</td><td><img src="https://media3.giphy.com/media/jLFMDwtmRBrTQVVIDH/giphy.gif?cid=790b7611f1b77445fab9feac7708ad29d7fc041da0d50f29&rid=giphy.gif&ct=g" width="300" height="200"/></td><td>INCLINED BENCH PRESS DUMBBLE</td>
 	</tr>
 	<tr>
 	<td>10.</td><td><img src="https://media4.giphy.com/media/D1MI5cm31xkGS5aHMB/giphy.gif?cid=790b76110386847493e4955f8f982cb2ce7df0153cb8fbcc&rid=giphy.gif&ct=g" width="300" height="200"/></td><td>HOLLOW PRESS DUMBBLEceps</td>
