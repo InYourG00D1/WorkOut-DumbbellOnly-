@@ -1,5 +1,5 @@
 
-<h1 align="center"> <img src="https://c.tenor.com/OcLW6D3ivkoAAAAi/kiss-exercise.gif" widht="300" height="200"></h1>
+<h1 align="center"> <img src="https://c.tenor.com/OcLW6D3ivkoAAAAi/kiss-exercise.gif" widht="100" height="200"></h1>
 <h2 align="center"> Happy Workout </h2>
 
 # source giphy akun
